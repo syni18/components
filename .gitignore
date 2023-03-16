@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+.history
+.gitignore
+tailwind.config.js
+
+
 # production
 /build
 
